@@ -61,4 +61,4 @@ These are the results we produced and we invite you to try to reproduce these re
 
 ### Disclaimer
 
-**As the authors of this repository we are not liable for any use of the code nor the correctness of the code in this repository.** 
+**As the authors of this repository, we are not liable for any use of the code nor the correctness of the code in this repository.** 
